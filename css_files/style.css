@@ -107,7 +107,7 @@
       padding: 0 30px;
     }
   }
-  /*@media (max-width: 868px) {
+  @media (max-width: 868px) {
     body.disabled{
       overflow: hidden;
     }
@@ -145,7 +145,7 @@
       margin-left: 0px;
     }
   }
-  @media (max-width: 380px) {
+  /*@media (max-width: 380px) {
     .navbar .logo a{
       font-size: 27px;
     }
